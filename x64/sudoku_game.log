@@ -1,0 +1,10 @@
+﻿  checker.cpp
+  game.cpp
+  initBoard.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\jieza\Documents\Projects\cli_sudoku\game\checker.cpp(22): warning C4715: 'checker': not all control paths return a value
+  All 278 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sudoku_game.vcxproj -> C:\Users\jieza\Documents\Projects\cli_sudoku\x64\Release\sudoku_game.exe

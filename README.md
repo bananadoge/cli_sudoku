@@ -1,2 +1,3 @@
-# cli_sudoku
+# CLI Sudoku
+
 Sudoku game played in the console.
